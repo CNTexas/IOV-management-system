@@ -1,3 +1,12 @@
+###增加自己的内容
+
+配置eclipse项目到idea中执行
+https://blog.csdn.net/yrq205/article/details/117108910
+本地数据库：
+root@123456
+1、登陆数据库后执行database的sql
+
+
 # IOV-management-system
 车联网监控管理系统
 # 车联网监控管理系统
